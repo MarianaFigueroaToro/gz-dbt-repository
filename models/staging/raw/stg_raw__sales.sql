@@ -12,7 +12,7 @@ renamed as (
         CONCAT(orders_id,"_",pdt_id) as primary_key,
         date_date,
         orders_id,
-        pdt_id AS product_id,
+        pdt_id AS products_id,
         revenue,
         quantity
 
