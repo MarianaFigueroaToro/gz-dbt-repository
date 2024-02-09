@@ -23,7 +23,7 @@ sources:
         identifier: raw_gz_product
         description: the products of greenws
         columns:
-          - name: product_id
+          - name: products_id
             tests:
               - unique
               - not_null

@@ -1,4 +1,5 @@
-orders_id,
+Sele
+    orders_id,
 	date_date,
 	ROUND(SUM(revenue),2) as revenue,
 	ROUND(SUM(quantity),2) as quantity,
